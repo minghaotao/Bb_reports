@@ -6,6 +6,8 @@ When the user called in, we will collect the following informaiton -
 ["ID", "Agent", "CallDateTime", "CallDate", "CallTime", "CallDay", "CallCategory", "UserType", "Faculty",
            "Comment", "Department", "ContactType", "BbCategory"]
            
+Please review images folder for some examples. 
+           
            
 
 
