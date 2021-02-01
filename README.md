@@ -8,7 +8,8 @@ When the user called in, we will collect the following infomraiton under these h
 ["ID", "Agent", "CallDateTime", "CallDate", "CallTime", "CallDay", "CallCategory", "UserType", "Faculty",
            "Comment", "Department", "ContactType", "BbCategory"]
 
-2. Then we use Python, Pandas and matplolob to filter data and create charts. 
+2. Then we use Python, Pandas and matplolob to filter data and create charts based on the input(monthy/year). 
+
 
 Please see the sreenshot of the Bb tracker and images folder for some data visaul examples. 
            
