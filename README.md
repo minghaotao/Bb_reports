@@ -3,8 +3,8 @@ Using Pandas and Matplotlob to create data visualization the support data
 
 1. First We use MS Excel to collect all the support data since 2017. 
 
-When the user called in, we will collect the following infomraiton under these headers
--
+When the user called in, we will collect the following infomraiton under these headers-
+
 ["ID", "Agent", "CallDateTime", "CallDate", "CallTime", "CallDay", "CallCategory", "UserType", "Faculty",
            "Comment", "Department", "ContactType", "BbCategory"]
 
